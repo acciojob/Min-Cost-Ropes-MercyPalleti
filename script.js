@@ -9,5 +9,5 @@ function mincost(arr)
 	}
 	return res;
 }
-
+console.log(mincost(arr));
 module.exports=mincost;
